@@ -1,0 +1,8 @@
+{
+  "short_name": "Password Validation",
+  "name": "Password Strength Validation App",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
