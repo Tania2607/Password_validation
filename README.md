@@ -21,8 +21,11 @@ A simple React-based password validation app that provides real-time feedback to
 The password strength is calculated based on these criteria and displayed with a progress bar and strength indicator.
 
 ## 📸 Preview
-
-
+![Screenshot 2025-06-07 132710](https://github.com/user-attachments/assets/01606f7f-21e9-42b4-bbab-0658430e3d1f)
+![Screenshot 2025-06-07 132752](https://github.com/user-attachments/assets/1c17e575-b73d-41b0-9a54-975d0cf8c948)
+![Screenshot 2025-06-07 132806](https://github.com/user-attachments/assets/22670ec1-685d-4a13-b59a-b60b7dd5667e)
+![Screenshot 2025-06-07 132824](https://github.com/user-attachments/assets/deaa3bb5-d580-4307-b0f3-d19745ce0769)
+![Screenshot 2025-06-07 132842](https://github.com/user-attachments/assets/e6efa714-d6c2-4ef9-83aa-811efe08dd31)
 
 ## 🛠️ Technologies Used
 
