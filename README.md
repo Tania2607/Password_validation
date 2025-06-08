@@ -101,5 +101,5 @@ The build will create a `build` folder with optimized files ready for production
 
 You can customize these rules in the `PasswordValidator.js` file located in the `src/components` directory.
 
-
+Made with ❤️ by Tania
 
